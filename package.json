@@ -1,0 +1,16 @@
+{
+  "name": "@iv.loskutova/page-preview",
+  "version": "1.0.0",
+  "description": "Web component for previewing an HTML page",
+  "type": "module",
+  "exports": "./src/page-preview.js",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
